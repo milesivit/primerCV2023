@@ -102,14 +102,14 @@ header a:hover{
 
 #miHistoria .container{ /*si o si tiene que haber un espacio*/
     text-align: center;
-    padding: 200px 12px;
+    padding: 180px 12px;
 }
 
 #misHabilidades{
     background-color: rgb(30,30,30); /*fondo de color negro*/
     color: white;
     text-align: center;
-    padding: 150px 1px;
+    padding: 170px 1px;
 }
 
 #misHabilidades .container{
